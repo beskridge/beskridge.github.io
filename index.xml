@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brent Eskridge</title>
-    <link>https://beskridge.github.io/</link>
+    <link>https://www.brenteskridge.com/</link>
     <description>Recent content on Brent Eskridge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jul 2021 06:00:00 +0600</lastBuildDate><atom:link href="https://beskridge.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jul 2021 06:00:00 +0600</lastBuildDate><atom:link href="https://www.brenteskridge.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resultados de Búsqueda</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>Este archivo existe únicamente para responder a la URL /search con la plantilla de diseño search relacionada.
 No se muestra ningún contenido aquí, todo el contenido se basa en la plantilla layouts/page/search.html
 Establecer una prioridad muy baja en el mapa del sitio le dirá a los motores de búsqueda que éste no es un contenido importante.
@@ -22,10 +22,10 @@ Configuración inicial La búsqueda depende del tipo de contenido de salida adic
     
     <item>
       <title>Resultados de Búsqueda</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>Este archivo existe únicamente para responder a la URL /search con la plantilla de diseño search relacionada.
 No se muestra ningún contenido aquí, todo el contenido se basa en la plantilla layouts/page/search.html
 Establecer una prioridad muy baja en el mapa del sitio le dirá a los motores de búsqueda que éste no es un contenido importante.
@@ -35,10 +35,10 @@ Configuración inicial La búsqueda depende del tipo de contenido de salida adic
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -48,10 +48,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -61,10 +61,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -74,10 +74,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -87,10 +87,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -100,10 +100,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -113,10 +113,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -126,10 +126,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -139,10 +139,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -152,10 +152,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -165,10 +165,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -178,10 +178,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -191,10 +191,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -204,10 +204,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -217,10 +217,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -230,10 +230,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -243,10 +243,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -256,10 +256,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -269,10 +269,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -282,10 +282,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -295,10 +295,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -308,10 +308,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>অনুসন্ধানের ফলাফল</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -321,10 +321,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>অনুসন্ধানের ফলাফল</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -334,20 +334,20 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Get More Out of Reading</title>
-      <link>https://beskridge.github.io/posts/learning/getting-more/</link>
+      <link>https://www.brenteskridge.com/posts/learning/getting-more/</link>
       <pubDate>Sun, 18 Jul 2021 06:00:00 +0600</pubDate>
       
-      <guid>https://beskridge.github.io/posts/learning/getting-more/</guid>
+      <guid>https://www.brenteskridge.com/posts/learning/getting-more/</guid>
       <description>Want to get more out of that next article you read that describes how to solve a problem? My advisor in graduate school gave me a great tip on how to do it.
 Start reading the article normally, but stop right before the author describes how they solved the problem. You should have an idea about the problem and some of the important issues involved. Set the paper aside and spend about 10 minutes creating your own solution to the problem.</description>
     </item>
     
     <item>
       <title>Search Results</title>
-      <link>https://beskridge.github.io/search/</link>
+      <link>https://www.brenteskridge.com/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://beskridge.github.io/search/</guid>
+      <guid>https://www.brenteskridge.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
