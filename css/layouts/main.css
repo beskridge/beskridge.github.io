@@ -468,3 +468,9 @@ mark {
     font-size: 1.5rem;
   }
 }
+
+
+
+.publication-item {
+  margin: 8px 0;
+}
