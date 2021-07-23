@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on Brent Eskridge</title>
+    <link>https://www.brenteskridge.com/posts/cti/</link>
+    <description>Recent content in Learning on Brent Eskridge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Jul 2021 06:00:00 +0600</lastBuildDate><atom:link href="https://www.brenteskridge.com/posts/cti/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Report: PrintNightmare</title>
+      <link>https://www.brenteskridge.com/posts/cti/cve-2021-1675/</link>
+      <pubDate>Mon, 05 Jul 2021 06:00:00 +0600</pubDate>
+      
+      <guid>https://www.brenteskridge.com/posts/cti/cve-2021-1675/</guid>
+      <description>Executive Summary On June 8, 2021, Microsoft released an advisory and patch for a critical vulnerability in the Windows Print Spooler. It was originally classified as a privilege escalation vulnerability. On June 27, 2021, researchers from QiAnXin claimed systems were still vulnerable after the patch and that the exploit could be used to gain remote code execution. A few days later researchers from Sangor released a proof-of-concept exploit on GitHub that validated the claim.</description>
+    </item>
+    
+  </channel>
+</rss>
